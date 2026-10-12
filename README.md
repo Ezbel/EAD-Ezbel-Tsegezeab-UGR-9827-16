@@ -1,4 +1,4 @@
-# Lab 1: Java JDBC with MySQL
+# Lab 1: Java Maven Starter Project
 
 A simple beginner-friendly Java project demonstrating how to connect to a MySQL database using JDBC and perform basic database operations (CRUD).
 
